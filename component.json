@@ -1,0 +1,7 @@
+{
+  "name": "pagedown",
+  "version": "0.0.1",
+  "main": ["Markdown.Converted.js", "Markdown.Editor.js", "Markdown.Sanitizer.js"],
+  "dependencies": {
+  }
+}
